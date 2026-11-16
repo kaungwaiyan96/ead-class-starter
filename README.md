@@ -27,3 +27,6 @@ The local preview is not a production service.
 
 ## My Additional Info
 This repository delivers the website and runs automated checks on every push.
+
+### CI/CD Workflow
+This feature branch demonstrates pull request checks and peer review.
